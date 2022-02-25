@@ -1,0 +1,87 @@
+Running Jupyter-Book v0.12.1
+Source Folder: /Users/Thadryan/Dropbox (Partners HealthCare)/Workspace/jb-error/jb-renv-example
+Config Path: /Users/Thadryan/Dropbox (Partners HealthCare)/Workspace/jb-error/jb-renv-example/_config.yml
+Output Path: /Users/Thadryan/Dropbox (Partners HealthCare)/Workspace/jb-error/jb-renv-example/_build/html
+Running Sphinx v4.4.0
+[etoc] Changing master_doc to 'intro'
+loading pickled environment... failed
+failed: source directory has changed
+myst v0.15.2: MdParserConfig(renderer='sphinx', commonmark_only=False, enable_extensions=['colon_fence', 'dollarmath', 'linkify', 'substitution', 'tasklist'], dmath_allow_labels=True, dmath_allow_space=True, dmath_allow_digits=True, dmath_double_inline=False, update_mathjax=True, mathjax_classes='tex2jax_process|mathjax_process|math|output_area', disable_syntax=[], url_schemes=['mailto', 'http', 'https'], heading_anchors=None, heading_slug_func=None, html_meta=[], footnote_transition=True, substitutions=[], sub_delimiters=['{', '}'], words_per_minute=200)
+building [mo]: targets for 0 po files that are out of date
+building [html]: targets for 24 source files that are out of date
+updating environment: executing outdated notebooks... failed
+[new config] 24 added, 0 changed, 0 removed
+reading sources... [100%] renv/library/R-4.0/x86_64-apple-darwin17.0/vctrs/NEWS
+ERROR: Execution failed in an unexpected way, clearing staged notebooks: The URI of the staged record no longer exists: /Users/Thadryan/Dropbox (Partners HealthCare)/Workspace/jb-error/error-test/analysis.ipynb
+/Users/Thadryan/Dropbox (Partners HealthCare)/Workspace/jb-error/jb-renv-example/renv/library/R-4.0/x86_64-apple-darwin17.0/digest/doc/sha1.md:7: WARNING: Non-consecutive header level increase; 0 to 2 [myst.header]
+/Users/Thadryan/Dropbox (Partners HealthCare)/Workspace/jb-error/jb-renv-example/renv/library/R-4.0/x86_64-apple-darwin17.0/digest/doc/sha1.md:15: WARNING: Non-consecutive header level increase; 0 to 2 [myst.header]
+/Users/Thadryan/Dropbox (Partners HealthCare)/Workspace/jb-error/jb-renv-example/renv/library/R-4.0/x86_64-apple-darwin17.0/digest/doc/sha1.md:19: WARNING: Non-consecutive header level increase; 0 to 2 [myst.header]
+/Users/Thadryan/Dropbox (Partners HealthCare)/Workspace/jb-error/jb-renv-example/renv/library/R-4.0/x86_64-apple-darwin17.0/digest/doc/sha1.md:69: WARNING: Non-consecutive header level increase; 0 to 2 [myst.header]
+/Users/Thadryan/Dropbox (Partners HealthCare)/Workspace/jb-error/jb-renv-example/renv/library/R-4.0/x86_64-apple-darwin17.0/digest/doc/sha1.md:73: WARNING: Non-consecutive header level increase; 0 to 2 [myst.header]
+/Users/Thadryan/Dropbox (Partners HealthCare)/Workspace/jb-error/jb-renv-example/renv/library/R-4.0/x86_64-apple-darwin17.0/digest/doc/sha1.md:163: WARNING: Non-consecutive header level increase; 0 to 2 [myst.header]
+/Users/Thadryan/Dropbox (Partners HealthCare)/Workspace/jb-error/jb-renv-example/renv/library/R-4.0/x86_64-apple-darwin17.0/dplyr/NEWS.md:1226: ERROR: Unknown directive type "r".
+/Users/Thadryan/Dropbox (Partners HealthCare)/Workspace/jb-error/jb-renv-example/renv/library/R-4.0/x86_64-apple-darwin17.0/htmltools/NEWS.md:70: ERROR: Substitution error:TemplateSyntaxError: unexpected '.'
+/Users/Thadryan/Dropbox (Partners HealthCare)/Workspace/jb-error/jb-renv-example/renv/library/R-4.0/x86_64-apple-darwin17.0/purrr/NEWS.md:276: ERROR: Unknown directive type "r".
+/Users/Thadryan/Dropbox (Partners HealthCare)/Workspace/jb-error/jb-renv-example/renv/library/R-4.0/x86_64-apple-darwin17.0/purrr/NEWS.md:291: ERROR: Unknown directive type "r".
+/Users/Thadryan/Dropbox (Partners HealthCare)/Workspace/jb-error/jb-renv-example/renv/library/R-4.0/x86_64-apple-darwin17.0/purrr/NEWS.md:309: ERROR: Unknown directive type "r".
+/Users/Thadryan/Dropbox (Partners HealthCare)/Workspace/jb-error/jb-renv-example/renv/library/R-4.0/x86_64-apple-darwin17.0/purrr/NEWS.md:321: ERROR: Unknown directive type "r".
+/Users/Thadryan/Dropbox (Partners HealthCare)/Workspace/jb-error/jb-renv-example/renv/library/R-4.0/x86_64-apple-darwin17.0/purrr/NEWS.md:390: ERROR: Unknown directive type "r".
+/Users/Thadryan/Dropbox (Partners HealthCare)/Workspace/jb-error/jb-renv-example/renv/library/R-4.0/x86_64-apple-darwin17.0/tidyselect/NEWS.md:12: ERROR: Unknown directive type "r".
+/Users/Thadryan/Dropbox (Partners HealthCare)/Workspace/jb-error/jb-renv-example/renv/library/R-4.0/x86_64-apple-darwin17.0/tidyselect/NEWS.md:20: ERROR: Unknown directive type "r".
+/Users/Thadryan/Dropbox (Partners HealthCare)/Workspace/jb-error/jb-renv-example/renv/library/R-4.0/x86_64-apple-darwin17.0/tidyselect/NEWS.md:151: ERROR: Unknown directive type "r".
+/Users/Thadryan/Dropbox (Partners HealthCare)/Workspace/jb-error/jb-renv-example/renv/library/R-4.0/x86_64-apple-darwin17.0/tidyselect/NEWS.md:202: ERROR: Unknown directive type "r".
+/Users/Thadryan/Dropbox (Partners HealthCare)/Workspace/jb-error/jb-renv-example/renv/library/R-4.0/x86_64-apple-darwin17.0/tidyselect/NEWS.md:298: ERROR: Unknown directive type "r".
+/Users/Thadryan/Dropbox (Partners HealthCare)/Workspace/jb-error/jb-renv-example/renv/library/R-4.0/x86_64-apple-darwin17.0/tidyselect/NEWS.md:355: ERROR: Unknown directive type "r".
+/Users/Thadryan/Dropbox (Partners HealthCare)/Workspace/jb-error/jb-renv-example/renv/library/R-4.0/x86_64-apple-darwin17.0/tidyselect/NEWS.md:363: ERROR: Unknown directive type "r".
+looking for now-outdated files... none found
+pickling environment... done
+checking consistency... /Users/Thadryan/Dropbox (Partners HealthCare)/Workspace/jb-error/jb-renv-example/renv/library/R-4.0/x86_64-apple-darwin17.0/R6/NEWS.md: WARNING: document isn't included in any toctree
+/Users/Thadryan/Dropbox (Partners HealthCare)/Workspace/jb-error/jb-renv-example/renv/library/R-4.0/x86_64-apple-darwin17.0/cli/NEWS.md: WARNING: document isn't included in any toctree
+/Users/Thadryan/Dropbox (Partners HealthCare)/Workspace/jb-error/jb-renv-example/renv/library/R-4.0/x86_64-apple-darwin17.0/crayon/NEWS.md: WARNING: document isn't included in any toctree
+/Users/Thadryan/Dropbox (Partners HealthCare)/Workspace/jb-error/jb-renv-example/renv/library/R-4.0/x86_64-apple-darwin17.0/digest/doc/sha1.md: WARNING: document isn't included in any toctree
+/Users/Thadryan/Dropbox (Partners HealthCare)/Workspace/jb-error/jb-renv-example/renv/library/R-4.0/x86_64-apple-darwin17.0/dplyr/NEWS.md: WARNING: document isn't included in any toctree
+/Users/Thadryan/Dropbox (Partners HealthCare)/Workspace/jb-error/jb-renv-example/renv/library/R-4.0/x86_64-apple-darwin17.0/ellipsis/NEWS.md: WARNING: document isn't included in any toctree
+/Users/Thadryan/Dropbox (Partners HealthCare)/Workspace/jb-error/jb-renv-example/renv/library/R-4.0/x86_64-apple-darwin17.0/evaluate/NEWS.md: WARNING: document isn't included in any toctree
+/Users/Thadryan/Dropbox (Partners HealthCare)/Workspace/jb-error/jb-renv-example/renv/library/R-4.0/x86_64-apple-darwin17.0/fansi/NEWS.md: WARNING: document isn't included in any toctree
+/Users/Thadryan/Dropbox (Partners HealthCare)/Workspace/jb-error/jb-renv-example/renv/library/R-4.0/x86_64-apple-darwin17.0/fastmap/NEWS.md: WARNING: document isn't included in any toctree
+/Users/Thadryan/Dropbox (Partners HealthCare)/Workspace/jb-error/jb-renv-example/renv/library/R-4.0/x86_64-apple-darwin17.0/generics/NEWS.md: WARNING: document isn't included in any toctree
+/Users/Thadryan/Dropbox (Partners HealthCare)/Workspace/jb-error/jb-renv-example/renv/library/R-4.0/x86_64-apple-darwin17.0/glue/NEWS.md: WARNING: document isn't included in any toctree
+/Users/Thadryan/Dropbox (Partners HealthCare)/Workspace/jb-error/jb-renv-example/renv/library/R-4.0/x86_64-apple-darwin17.0/htmltools/NEWS.md: WARNING: document isn't included in any toctree
+/Users/Thadryan/Dropbox (Partners HealthCare)/Workspace/jb-error/jb-renv-example/renv/library/R-4.0/x86_64-apple-darwin17.0/lifecycle/NEWS.md: WARNING: document isn't included in any toctree
+/Users/Thadryan/Dropbox (Partners HealthCare)/Workspace/jb-error/jb-renv-example/renv/library/R-4.0/x86_64-apple-darwin17.0/magrittr/NEWS.md: WARNING: document isn't included in any toctree
+/Users/Thadryan/Dropbox (Partners HealthCare)/Workspace/jb-error/jb-renv-example/renv/library/R-4.0/x86_64-apple-darwin17.0/pillar/NEWS.md: WARNING: document isn't included in any toctree
+/Users/Thadryan/Dropbox (Partners HealthCare)/Workspace/jb-error/jb-renv-example/renv/library/R-4.0/x86_64-apple-darwin17.0/purrr/NEWS.md: WARNING: document isn't included in any toctree
+/Users/Thadryan/Dropbox (Partners HealthCare)/Workspace/jb-error/jb-renv-example/renv/library/R-4.0/x86_64-apple-darwin17.0/renv/NEWS.md: WARNING: document isn't included in any toctree
+/Users/Thadryan/Dropbox (Partners HealthCare)/Workspace/jb-error/jb-renv-example/renv/library/R-4.0/x86_64-apple-darwin17.0/repr/NEWS.md: WARNING: document isn't included in any toctree
+/Users/Thadryan/Dropbox (Partners HealthCare)/Workspace/jb-error/jb-renv-example/renv/library/R-4.0/x86_64-apple-darwin17.0/rlang/NEWS.md: WARNING: document isn't included in any toctree
+/Users/Thadryan/Dropbox (Partners HealthCare)/Workspace/jb-error/jb-renv-example/renv/library/R-4.0/x86_64-apple-darwin17.0/tibble/NEWS.md: WARNING: document isn't included in any toctree
+/Users/Thadryan/Dropbox (Partners HealthCare)/Workspace/jb-error/jb-renv-example/renv/library/R-4.0/x86_64-apple-darwin17.0/tidyselect/NEWS.md: WARNING: document isn't included in any toctree
+/Users/Thadryan/Dropbox (Partners HealthCare)/Workspace/jb-error/jb-renv-example/renv/library/R-4.0/x86_64-apple-darwin17.0/vctrs/NEWS.md: WARNING: document isn't included in any toctree
+done
+preparing documents... done
+writing output... [100%] renv/library/R-4.0/x86_64-apple-darwin17.0/vctrs/NEWS
+/Users/Thadryan/Dropbox (Partners HealthCare)/Workspace/jb-error/jb-renv-example/renv/library/R-4.0/x86_64-apple-darwin17.0/digest/doc/sha1.md:25: WARNING: Pygments lexer name '{#faq7_31' is not known
+/Users/Thadryan/Dropbox (Partners HealthCare)/Workspace/jb-error/jb-renv-example/renv/library/R-4.0/x86_64-apple-darwin17.0/digest/doc/sha1.md:41: WARNING: Pygments lexer name '{#faq7_31digest' is not known
+/Users/Thadryan/Dropbox (Partners HealthCare)/Workspace/jb-error/jb-renv-example/renv/library/R-4.0/x86_64-apple-darwin17.0/digest/doc/sha1.md:94: WARNING: Pygments lexer name '{#sha1_lm_sum' is not known
+/Users/Thadryan/Dropbox (Partners HealthCare)/Workspace/jb-error/jb-renv-example/renv/library/R-4.0/x86_64-apple-darwin17.0/digest/doc/sha1.md:136: WARNING: Pygments lexer name '{#sha1_lm' is not known
+generating indices... genindex done
+writing additional pages... search done
+copying static files... done
+copying extra files... done
+dumping search index in English (code: en)... done
+dumping object inventory... done
+build succeeded, 47 warnings.
+
+The HTML pages are in _build/html.
+
+===============================================================================
+
+Finished generating HTML for book.
+Your book's HTML pages are here:
+    _build/html/
+You can look at your book by opening this file in a browser:
+    _build/html/index.html
+Or paste this line directly into your browser bar:
+    file:///Users/Thadryan/Dropbox (Partners HealthCare)/Workspace/jb-error/jb-renv-example/_build/html/index.html
+
+===============================================================================
